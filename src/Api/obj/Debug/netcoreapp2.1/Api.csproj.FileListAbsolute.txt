@@ -1,0 +1,14 @@
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\bin\Debug\netcoreapp2.1\Api.dll
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\bin\Debug\netcoreapp2.1\Api.pdb
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.dll
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.pdb
+D:\Identity\IdentityServer4.Samples\Quickstarts\Combined_AspId_and_EFStorage\src\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
